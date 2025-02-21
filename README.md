@@ -58,9 +58,3 @@ This project is licensed under the MIT License.
 - **GitHub:** [bektas-sari](https://github.com/bektas-sari)
 - **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
 - **LinkedIn:** [bektas-sari](https://www.linkedin.com/in/bektas-sari)
-
-
-
-----
-description
-DocScanner is a modern OCR application built with Python, PyQt6, and Tesseract OCR. It allows users to upload images, extract text in multiple languages (English, Turkish), edit, and save as TXT or PDF. Featuring real-time processing, a sleek UI, and cross-platform support, it’s designed for efficiency and ease of use.
