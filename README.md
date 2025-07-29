@@ -54,7 +54,12 @@ python -m unittest discover -s tests
 
 This project is licensed under the MIT License.
 
-## Contact
-- **GitHub:** [bektas-sari](https://github.com/bektas-sari)
-- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-- **LinkedIn:** [bektas-sari](https://www.linkedin.com/in/bektas-sari)
+
+## 👤 Developer
+
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
